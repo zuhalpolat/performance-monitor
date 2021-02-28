@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zuhal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zuhal\\.nuget\\packages"
+    ]
+  }
+}
